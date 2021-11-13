@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.icon {
+    padding: 10px;
+    background: rgba(0,49,81,1);
+    color: rgba(233,236,239,1);
+    min-width: 25px;
+    text-align: center;
+    cursor: pointer;
+  }
